@@ -52,8 +52,13 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'X',
+      name: 'X（原Twitter推特）',
       link: 'https://twitter.com/mcpezydq',
+    },
+    
+    {
+      name: '哔哩哔哩（B站）',
+      link: 'https://b23.tv/zImVzE0',
     },
   ],
 
